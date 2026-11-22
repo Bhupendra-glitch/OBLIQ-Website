@@ -12,6 +12,7 @@ Thank you to everyone who has contributed to the Obliq website! 🙏
 - Uppala Shlesha (https://github.com/Shlesha5847) — Added myself to contributors
 - [Shivansh Bhageria](https://github.com/Shivansh1205) — blog (MDX posts, index, OG images), privacy and terms pages, hero and scroll animations, integrations marquee, analytics, accessibility fixes, app icons
 - [Sarthak Patil](https://github.com/SarthakPatil18) — fixed mobile menu closing behavior on current page navigation
+- [Bhupendra Kumar Sahu](https://github.com/Bhupendra-glitch) — Added myself to contributors
 
 ---
 
